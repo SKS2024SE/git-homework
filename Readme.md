@@ -1,5 +1,5 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/SKS2024SE) ![Static Badge](https://img.shields.io/badge/License-MIT-green?style=flat) ![Static Badge](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python) ![Static Badge](https://img.shields.io/badge/Platform-Linux-green?style=flat&logo=linux)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)(#)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 
 # Triad Triumph
 
